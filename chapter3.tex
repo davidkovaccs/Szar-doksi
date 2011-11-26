@@ -1,0 +1,7 @@
+%----------------------------------------------------------------------------
+\chapter{Telepítési dokumentáció}\label{sect:telepites}
+%----------------------------------------------------------------------------
+
+Az alkalmazást természetéből adódóan egy webszerverre szükséges telepíteni, ez célszerűen a Microsoft IIS 7-es verziója. A telepítéshez a webprojekt könyvtárának tartalmát kell elérhetővé tenni a webszerveren. Célszerű a könyvtárban található HTML, vagy ASPX fájlt a könyvtár default kezdőlapjának beállítani, így a \texttt{kiszolgáló/elérésiút} címen az alkalmazás könnyen indítható.
+
+A program működése emellett természetesen igényli a felhasználó számítógépén a Silverlight környezet meglétét. Azonban ha nem érzékeli, a kezdőlapon automatikusan felajánlja a letöltést és telepítést, ami után a rendszer rögtön használhatóvá válik.

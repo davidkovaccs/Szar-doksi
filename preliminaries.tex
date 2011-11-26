@@ -1,0 +1,82 @@
+%--------------------------------------------------------------------------------------
+%	The title page
+%--------------------------------------------------------------------------------------
+\begin{titlepage}
+\begin{center}
+\includegraphics[width=100mm,keepaspectratio]{figures/BMElogo.png}\\
+\textsc{Budapesti Műszaki és Gazdaságtudományi Egyetem}\\
+\textsc{Automatizálási és Alkalmazott Informatikai Tanszék}\\[5cm]
+
+\vspace{0.4cm}
+{\huge \bfseries \mittitle}\\[0.8cm]
+\vspace{0.5cm}
+\textsc{\Large Szoftverarchitektúrák (VIAUM105)\\ Házi feladat}\\[4cm]
+
+\begin{tabular}{cc}
+ \makebox[7cm]{\emph{Készítették}} & \makebox[7cm]{\emph{Konzulens}} \\
+ \makebox[7cm]{\mitauthor} & \makebox[7cm]{\mitadvisor} \\
+ \makebox[7cm]{\mitauthorneptun} & \makebox[7cm]{\begin{small}\mitadvisortitle\end{small}} \\
+ \makebox[7cm]{\url{\mitauthormail}} & \makebox[7cm]{\url{\mitadvisormail}} \\
+ & \\
+ \makebox[7cm]{\mitauthork} & \\
+ \makebox[7cm]{\mitauthorkneptun} & \\
+ \makebox[7cm]{\url{\mitauthorkmail}} & \\
+\end{tabular}
+
+\vfill
+{\large \today}
+\end{center}
+\end{titlepage}
+
+%--------------------------------------------------------------------------------------
+% Set up listings
+%--------------------------------------------------------------------------------------
+\lstset{
+	basicstyle=\scriptsize\ttfamily, % print whole listing small
+	keywordstyle=\color{black}\bfseries\underbar, % underlined bold black keywords
+	identifierstyle=, 					% nothing happens
+	commentstyle=\color{white}, % white comments
+	stringstyle=\scriptsize\sffamily, 			% typewriter type for strings
+	showstringspaces=false,     % no special string spaces
+	aboveskip=3pt,
+	belowskip=3pt,
+	columns=fixed,
+	backgroundcolor=\color{lightgray},
+} 		
+\def\lstlistingname{lista}
+
+%\newpage\thispagestyle{empty} % an empty page
+
+%--------------------------------------------------------------------------------------
+% Nyilatkozat
+%--------------------------------------------------------------------------------------
+\begin{center}
+\pagenumbering{Roman}
+%\clearpage
+\phantomsection
+\addcontentsline{toc}{chapter}{Hallgatói nyilatkozat}
+\large
+\textbf{HALLGATÓI NYILATKOZAT}\\
+\end{center}
+
+Alulírott \emph{\mitauthor} és \emph{\mitauthork}, a  Budapesti Műszaki és Gazdaságtudományi Egyetem hallgatói kijelentjük, hogy ezt a házi feladatot meg nem engedett segítség nélkül, saját magunk készítettük el.
+
+\begin{flushleft}
+\vspace*{1cm}
+Budapest, \today
+\end{flushleft}
+
+\begin{flushright}
+ \vspace*{1cm}
+ \begin{tabular}{cc}
+ \makebox[7cm]{\rule{6cm}{.4pt}} & \makebox[7cm]{\rule{6cm}{.4pt}} \\
+ \makebox[7cm]{\emph{\mitauthor}} & \makebox[7cm]{\emph{\mitauthork}} \\
+ \makebox[7cm]{hallgató} & \makebox[7cm]{hallgató} \\
+ \end{tabular}
+\end{flushright}
+%\thispagestyle{empty}
+
+\vfill
+%\clearpage
+%\thispagestyle{empty} % an empty page
+

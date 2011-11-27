@@ -1,12 +1,22 @@
+<<<<<<< HEAD
 This is pdfTeX, Version 3.1415926-2.3-1.40.12 (Web2C 2011) (format=pdflatex 2011.11.27)  27 NOV 2011 18:15
+=======
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.10.29)  27 NOV 2011 16:12
+>>>>>>> c173e03efea389626bac6a3f3c6912aa0a2de775
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **szarch_homework.tex
 (./szarch_homework.tex
+<<<<<<< HEAD
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, dumylang, nohyphenation, ge
 rman-x-2011-07-01, ngerman-x-2011-07-01, afrikaans, ancientgreek, ibycus, arabi
+=======
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, dumylang, nohyphenation, ge
+rman-x-2009-06-19, ngerman-x-2009-06-19, afrikaans, ancientgreek, ibycus, arabi
+>>>>>>> c173e03efea389626bac6a3f3c6912aa0a2de775
 c, armenian, basque, bulgarian, catalan, pinyin, coptic, croatian, czech, danis
 h, dutch, ukenglish, usenglishmax, esperanto, estonian, ethiopic, farsi, finnis
 h, french, galician, german, ngerman, swissgerman, monogreek, greek, hungarian,
@@ -625,7 +635,8 @@ Now handling font encoding PU ...
 Package hyperref Info: Option `pdfnewwindow' set `true' on input line 137.
 Package hyperref Info: Option `colorlinks' set `true' on input line 137.
 
-(./szarch_homework.aux (./preliminaries.aux) (./chapter1.aux
+(./szarch_homework.aux (./preliminaries.aux) (./introduction.aux)
+(./chapter1.aux
 
 LaTeX Warning: Label `fig:haromreteg' multiply defined.
 
@@ -650,7 +661,7 @@ LaTeX Warning: Label `fig:haromreteg' multiply defined.
 
 LaTeX Warning: Label `fig:haromreteg' multiply defined.
 
-) (./assessment.aux))
+) (./chapter2.aux) (./chapter3.aux) (./assessment.aux))
 \openout1 = `szarch_homework.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 185.
@@ -712,10 +723,17 @@ Package caption Info: End \AtBeginDocument code.
 \AtBeginShipoutBox=\box31
 Package hyperref Info: Link coloring ON on input line 185.
 
+<<<<<<< HEAD
 (c:/texlive/2011/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2010/04/30 v2.40 Cross-referencing by name of section
 
 (c:/texlive/2011/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+=======
+(/usr/local/texlive/2011/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2010/04/30 v2.40 Cross-referencing by name of section
+
+(/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+>>>>>>> c173e03efea389626bac6a3f3c6912aa0a2de775
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count132
@@ -729,7 +747,11 @@ LaTeX Info: Redefining \nameref on input line 185.
 \openout3 = `szarch_homework.out'.
 
 
+<<<<<<< HEAD
 (c:/texlive/2011/texmf-dist/tex/latex/base/report.cls
+=======
+(/usr/local/texlive/2011/texmf-dist/tex/latex/base/report.cls
+>>>>>>> c173e03efea389626bac6a3f3c6912aa0a2de775
 LaTeX Info: Redefining \cal on input line 586.
 LaTeX Info: Redefining \mit on input line 587.
 
@@ -748,7 +770,11 @@ less on input line 734.
 )
 \openout2 = `preliminaries.aux'.
 
+<<<<<<< HEAD
  (./preliminaries.tex <figures/BMElogo.png, id=221, 1035.87pt x 234.8775pt>
+=======
+ (./preliminaries.tex <figures/BMElogo.png, id=261, 1035.87pt x 234.8775pt>
+>>>>>>> c173e03efea389626bac6a3f3c6912aa0a2de775
 File: figures/BMElogo.png Graphic file (type png)
 
 <use figures/BMElogo.png>
@@ -756,7 +782,11 @@ Package pdftex.def Info: figures/BMElogo.png used on input line 6.
 (pdftex.def)             Requested size: 284.52756pt x 64.51445pt.
 LaTeX Font Info:    Try loading font information for U+msa on input line 15.
 
+<<<<<<< HEAD
 (c:/texlive/2011/texmf-dist/tex/latex/amsfonts/umsa.fd
+=======
+(/usr/local/texlive/2011/texmf-dist/tex/latex/amsfonts/umsa.fd
+>>>>>>> c173e03efea389626bac6a3f3c6912aa0a2de775
 File: umsa.fd 2009/06/22 v3.00 AMS symbols A
 )
 LaTeX Font Info:    Try loading font information for U+msb on input line 15.
@@ -772,6 +802,7 @@ File: t1cmtt.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 
 
 
+<<<<<<< HEAD
 {c:/texlive/2011/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./figures/BMElo
 go.png>]) [1]
 (./szarch_homework.toc
@@ -788,16 +819,81 @@ Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
 less on input line 40.
 
 [2
+=======
+{/usr/local/texlive/2011/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./figur
+es/BMElogo.png>]) [1] (./szarch_homework.toc
+
+Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
+less on input line 39.
+
+
+Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
+less on input line 39.
+
+
+Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
+less on input line 39.
+
+[2
 
 
 
 
+pdfTeX warning: pdflatex: pop empty color page stack 0
+])
+\tf@toc=\write4
+\openout4 = `szarch_homework.toc'.
+
+ [3]
+\openout2 = `introduction.aux'.
+
+ (./introduction.tex
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 9.
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 9.
+
+<figures/tozsde.png, id=360, 120.45pt x 79.79813pt>
+File: figures/tozsde.png Graphic file (type png)
+ <use figures/tozsde.png>
+Package pdftex.def Info: figures/tozsde.png used on input line 18.
+(pdftex.def)             Requested size: 199.16928pt x 131.96194pt.
+)
+
+Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
+less on input line 198.
+
+
+Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
+less on input line 198.
+
+
+Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
+less on input line 198.
+>>>>>>> c173e03efea389626bac6a3f3c6912aa0a2de775
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.198 \include{introduction}
+                             [1
+
+
+
+<<<<<<< HEAD
 pdfTeX warning: pdflatex.exe: pop empty color page stack 0
 ])
 \tf@toc=\write4
 \openout4 = `szarch_homework.toc'.
 
  [3]
+=======
+ <./figures/tozsde.png>] [2]
+>>>>>>> c173e03efea389626bac6a3f3c6912aa0a2de775
 \openout2 = `chapter1.aux'.
 
  (./chapter1.tex
@@ -814,85 +910,121 @@ less on input line 25.
 Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
 less on input line 25.
 
-pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
-been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.25 
-      [1
+[3
 
 
 
-] [2]
+] [4]
 Overfull \hbox (32.41164pt too wide) in paragraph at lines 76--78
 \T1/cmr/m/n/10.95 A fel-hasz-ná-ló ki-tölt egy meg-bí-zá-si for-mu-lát, mely-he
 z meg-ad-ja a szük-sé-ges ada-to-kat(instrumentum,
  []
 
+<<<<<<< HEAD
 [3] [4] [5] <figures/user_1/register.png, id=374, 722.7pt x 433.62pt>
+=======
+[5] [6] [7] <figures/user_1/register.png, id=445, 722.7pt x 433.62pt>
+>>>>>>> c173e03efea389626bac6a3f3c6912aa0a2de775
 File: figures/user_1/register.png Graphic file (type png)
 
 <use figures/user_1/register.png>
 Package pdftex.def Info: figures/user_1/register.png used on input line 165.
 (pdftex.def)             Requested size: 426.79134pt x 256.07838pt.
 
+<<<<<<< HEAD
 <figures/user_1/login.png, id=376, 722.7pt x 433.62pt>
+=======
+<figures/user_1/login.png, id=447, 722.7pt x 433.62pt>
+>>>>>>> c173e03efea389626bac6a3f3c6912aa0a2de775
 File: figures/user_1/login.png Graphic file (type png)
 
 <use figures/user_1/login.png>
 Package pdftex.def Info: figures/user_1/login.png used on input line 174.
 (pdftex.def)             Requested size: 426.79134pt x 256.07838pt.
 
+<<<<<<< HEAD
 <figures/user_1/admin_users.png, id=377, 722.7pt x 433.62pt>
+=======
+<figures/user_1/admin_users.png, id=448, 722.7pt x 433.62pt>
+>>>>>>> c173e03efea389626bac6a3f3c6912aa0a2de775
 File: figures/user_1/admin_users.png Graphic file (type png)
 
 <use figures/user_1/admin_users.png>
 Package pdftex.def Info: figures/user_1/admin_users.png used on input line 185.
 
 (pdftex.def)             Requested size: 426.79134pt x 256.07838pt.
+<<<<<<< HEAD
  [6 <./figures/user_1/register.png> <./figures/user_1/login.png>] <figures/user
 _1/Home.png, id=392, 722.7pt x 433.62pt>
+=======
+ [8 <./figures/user_1/register.png> <./figures/user_1/login.png>] <figures/user
+_1/Home.png, id=461, 722.7pt x 433.62pt>
+>>>>>>> c173e03efea389626bac6a3f3c6912aa0a2de775
 File: figures/user_1/Home.png Graphic file (type png)
 
 <use figures/user_1/Home.png>
 Package pdftex.def Info: figures/user_1/Home.png used on input line 194.
 (pdftex.def)             Requested size: 426.79134pt x 256.07838pt.
 
+<<<<<<< HEAD
 <figures/user_1/bills.png, id=393, 722.7pt x 433.62pt>
+=======
+<figures/user_1/bills.png, id=462, 722.7pt x 433.62pt>
+>>>>>>> c173e03efea389626bac6a3f3c6912aa0a2de775
 File: figures/user_1/bills.png Graphic file (type png)
 
 <use figures/user_1/bills.png>
 Package pdftex.def Info: figures/user_1/bills.png used on input line 203.
 (pdftex.def)             Requested size: 426.79134pt x 256.07838pt.
+<<<<<<< HEAD
  [7 <./figures/user_1/admin_users.png> <./figures/user_1/Home.png>] <figures/us
 er_1/megbizasok.png, id=404, 722.7pt x 433.62pt>
+=======
+ [9 <./figures/user_1/admin_users.png> <./figures/user_1/Home.png>] <figures/us
+er_1/megbizasok.png, id=474, 722.7pt x 433.62pt>
+>>>>>>> c173e03efea389626bac6a3f3c6912aa0a2de775
 File: figures/user_1/megbizasok.png Graphic file (type png)
 
 <use figures/user_1/megbizasok.png>
 Package pdftex.def Info: figures/user_1/megbizasok.png used on input line 213.
 (pdftex.def)             Requested size: 426.79134pt x 256.07838pt.
 
+<<<<<<< HEAD
 <figures/user_1/ugyletek.png, id=405, 722.7pt x 433.62pt>
+=======
+<figures/user_1/ugyletek.png, id=475, 722.7pt x 433.62pt>
+>>>>>>> c173e03efea389626bac6a3f3c6912aa0a2de775
 File: figures/user_1/ugyletek.png Graphic file (type png)
 
 <use figures/user_1/ugyletek.png>
 Package pdftex.def Info: figures/user_1/ugyletek.png used on input line 224.
 (pdftex.def)             Requested size: 426.79134pt x 256.07838pt.
+<<<<<<< HEAD
  [8 <./figures/user_1/bills.png> <./figures/user_1/megbizasok.png>]
 <figures/user_1/uj_megbizas.png, id=417, 722.7pt x 433.62pt>
+=======
+ [10 <./figures/user_1/bills.png> <./figures/user_1/megbizasok.png>]
+<figures/user_1/uj_megbizas.png, id=486, 722.7pt x 433.62pt>
+>>>>>>> c173e03efea389626bac6a3f3c6912aa0a2de775
 File: figures/user_1/uj_megbizas.png Graphic file (type png)
 
 <use figures/user_1/uj_megbizas.png>
 Package pdftex.def Info: figures/user_1/uj_megbizas.png used on input line 233.
 
 (pdftex.def)             Requested size: 426.79134pt x 256.07838pt.
+<<<<<<< HEAD
  [9 <./figures/user_1/ugyletek.png> <./figures/user_1/uj_megbizas.png>] [10]
 <figures/arch.png, id=438, 501.875pt x 255.95625pt>
+=======
+ [11 <./figures/user_1/ugyletek.png> <./figures/user_1/uj_megbizas.png>] [12]
+<figures/arch.png, id=506, 501.875pt x 255.95625pt>
+>>>>>>> c173e03efea389626bac6a3f3c6912aa0a2de775
 File: figures/arch.png Graphic file (type png)
  <use figures/arch.png>
 Package pdftex.def Info: figures/arch.png used on input line 273.
 (pdftex.def)             Requested size: 426.79134pt x 217.67319pt.
 )
+<<<<<<< HEAD
 [11 <./figures/arch.png>]
 \tf@thm=\write5
 \openout5 = `szarch_homework.thm'.
@@ -903,16 +1035,170 @@ Package atveryend Info: Empty hook `BeforeClearDocument' on input line 213.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 213.
 (./szarch_homework.aux (./preliminaries.aux) (./chapter1.aux) (./assessment.aux
 ))
+=======
+[13 <./figures/arch.png>]
+\openout2 = `chapter2.aux'.
+
+ (./chapter2.tex
+2. fejezet.
+
+LaTeX Warning: Reference `sect:tervarch' on page 14 undefined on input line 11.
+
+
+
+Overfull \hbox (7.12233pt too wide) in paragraph at lines 15--16
+[]\T1/cmr/m/n/10.95 Kompatibilitási prob-lé-mák mi-att el-áll-tunk a kö-ve-tel-
+mény-spe-ci-fi-ká-ci-ó-ban le-fek-te-tett Linux-
+ []
+
+
+Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
+less on input line 38.
+
+
+Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
+less on input line 38.
+
+
+Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
+less on input line 38.
+
+[14
+
+
+
+] <figures/felulet.png, id=525, 962.84718pt x 676.02562pt>
+File: figures/felulet.png Graphic file (type png)
+
+<use figures/felulet.png>
+Package pdftex.def Info: figures/felulet.png used on input line 41.
+(pdftex.def)             Requested size: 369.88582pt x 259.69817pt.
+ <figures/login.png, id=526, 142.28156pt x 156.585pt>
+File: figures/login.png Graphic file (type png)
+
+<use figures/login.png>
+Package pdftex.def Info: figures/login.png used on input line 52.
+(pdftex.def)             Requested size: 142.26378pt x 156.58221pt.
+ [15 <./figures/felulet.png> <./figures/login.png>]
+<figures/register.png, id=536, 220.57407pt x 210.7875pt>
+File: figures/register.png Graphic file (type png)
+
+<use figures/register.png>
+Package pdftex.def Info: figures/register.png used on input line 65.
+(pdftex.def)             Requested size: 142.26378pt x 135.9585pt.
+
+<figures/csaladfa-panel.png, id=538, 142.28156pt x 156.585pt>
+File: figures/csaladfa-panel.png Graphic file (type png)
+
+<use figures/csaladfa-panel.png>
+Package pdftex.def Info: figures/csaladfa-panel.png used on input line 76.
+(pdftex.def)             Requested size: 128.0374pt x 140.92279pt.
+
+<figures/famtree.png, id=540, 428.35031pt x 361.35pt>
+File: figures/famtree.png Graphic file (type png)
+
+<use figures/famtree.png>
+Package pdftex.def Info: figures/famtree.png used on input line 87.
+(pdftex.def)             Requested size: 227.62204pt x 192.01634pt.
+ [16 <./figures/register.png> <./figures/csaladfa-panel.png>] <figures/reszlete
+k.png, id=550, 654.94687pt x 130.23656pt>
+File: figures/reszletek.png Graphic file (type png)
+
+<use figures/reszletek.png>
+Package pdftex.def Info: figures/reszletek.png used on input line 100.
+(pdftex.def)             Requested size: 284.52756pt x 56.5789pt.
+
+<figures/db_sema.png, id=552, 345.54094pt x 345.54094pt>
+File: figures/db_sema.png Graphic file (type png)
+
+<use figures/db_sema.png>
+Package pdftex.def Info: figures/db_sema.png used on input line 119.
+(pdftex.def)             Requested size: 199.16928pt x 199.16956pt.
+LaTeX Font Info:    Font shape `T1/cmtt/bx/n' in size <10.95> not available
+(Font)              Font shape `T1/cmtt/m/n' tried instead on input line 124.
+
+Overfull \hbox (6.82475pt too wide) in paragraph at lines 126--127
+[]\T1/cmr/m/n/10.95 Mivel egy-egy fel-hasz-ná-ló több csa-lád-fát is lét-re-hoz
+-hat, ezért a \T1/cmtt/m/n/10.95 FAMTREE(ft_id, ft_name,
+ []
+
+[17 <./figures/famtree.png> <./figures/reszletek.png>]
+Overfull \hbox (22.33653pt too wide) in paragraph at lines 130--131
+[]\T1/cmr/m/n/10.95 Végül a csa-lád-fák-ban sze-rep-l® sze-mé-lyek kö-zöt-ti ka
+p-cso-la-tot a \T1/cmtt/m/n/10.95 LINEAGE(l_id, l_father_id,
+ []
+
+[18 <./figures/db_sema.png>]) [19]
+\openout2 = `chapter3.aux'.
+
+ (./chapter3.tex
+3. fejezet.
+)
+Overfull \hbox (12.59692pt too wide) in paragraph at lines 7--201
+[]\T1/cmr/m/n/10.95 A prog-ram m¶-kö-dé-se emel-lett ter-mé-sze-te-sen igény-li
+ a fel-hasz-ná-ló szá-mí-tó-gé-pén a Silverlight
+ []
+
+
+Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
+less on input line 201.
+
+
+Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
+less on input line 201.
+
+
+Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
+less on input line 201.
+
+[20
+
+
+
+]
+\openout2 = `assessment.aux'.
+
+ (./assessment.tex)
+
+Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
+less on input line 202.
+
+
+Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
+less on input line 202.
+
+
+Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
+less on input line 202.
+
+[21
+
+
+
+]
+\tf@thm=\write5
+\openout5 = `szarch_homework.thm'.
+
+ AED: lastpage setting LastPage 
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 213.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 213.
+(./szarch_homework.aux (./preliminaries.aux) (./introduction.aux)
+(./chapter1.aux) (./chapter2.aux) (./chapter3.aux) (./assessment.aux))
+>>>>>>> c173e03efea389626bac6a3f3c6912aa0a2de775
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 213.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 213.
 Package rerunfilecheck Info: File `szarch_homework.out' has not changed.
-(rerunfilecheck)             Checksum: 6AEA97E37D79ED653DA47511F3428EA5;10725.
+(rerunfilecheck)             Checksum: 03DEB47DF880652D6B6BAE35FC6A22D4;12116.
+
+
+LaTeX Warning: There were undefined references.
 
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
+<<<<<<< HEAD
  11710 strings out of 493629
  169129 string characters out of 3146690
  268097 words of memory out of 3000000
@@ -935,9 +1221,39 @@ onts/type1/public/cm-super/sfrm1200.pfb><c:/texlive/2011/texmf-dist/fonts/type1
 -super/sfti1095.pfb><c:/texlive/2011/texmf-dist/fonts/type1/public/cm-super/sft
 t1095.pfb>
 Output written on szarch_homework.pdf (15 pages, 583597 bytes).
+=======
+ 11836 strings out of 493633
+ 172144 string characters out of 3143376
+ 272529 words of memory out of 3000000
+ 14731 multiletter control sequences out of 15000+200000
+ 26859 words of font info for 64 fonts, out of 3000000 for 9000
+ 836 hyphenation exceptions out of 8191
+ 36i,12n,43p,778b,588s stack positions out of 5000i,500n,10000p,200000b,50000s
+{/usr/local/texlive/2011/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}
+</usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><
+/usr/local/texlive/2011/texmf-dist/fonts/type1/public/cm-super/sfbx0900.pfb></u
+sr/local/texlive/2011/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb></usr
+/local/texlive/2011/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb></usr/l
+ocal/texlive/2011/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/loc
+al/texlive/2011/texmf-dist/fonts/type1/public/cm-super/sfbx2074.pfb></usr/local
+/texlive/2011/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/local/t
+exlive/2011/texmf-dist/fonts/type1/public/cm-super/sfcc1095.pfb></usr/local/tex
+live/2011/texmf-dist/fonts/type1/public/cm-super/sfcc1440.pfb></usr/local/texli
+ve/2011/texmf-dist/fonts/type1/public/cm-super/sfrm0600.pfb></usr/local/texlive
+/2011/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb></usr/local/texlive/2
+011/texmf-dist/fonts/type1/public/cm-super/sfrm0900.pfb></usr/local/texlive/201
+1/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/texlive/2011/
+texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2011/te
+xmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2011/texm
+f-dist/fonts/type1/public/cm-super/sfti0900.pfb></usr/local/texlive/2011/texmf-
+dist/fonts/type1/public/cm-super/sfti1095.pfb></usr/local/texlive/2011/texmf-di
+st/fonts/type1/public/cm-super/sftt0900.pfb></usr/local/texlive/2011/texmf-dist
+/fonts/type1/public/cm-super/sftt1095.pfb>
+Output written on szarch_homework.pdf (25 pages, 1019459 bytes).
+>>>>>>> c173e03efea389626bac6a3f3c6912aa0a2de775
 PDF statistics:
- 521 PDF objects out of 1000 (max. 8388607)
- 466 compressed objects within 5 object streams
- 131 named destinations out of 1000 (max. 500000)
- 483 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 687 PDF objects out of 1000 (max. 8388607)
+ 607 compressed objects within 7 object streams
+ 173 named destinations out of 1000 (max. 500000)
+ 603 words of extra memory for PDF output out of 10000 (max. 10000000)
 

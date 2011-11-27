@@ -73,3 +73,27 @@ A rendszerben lévő modellekhez kizárólag authentikáció után lehet hozzáf
 %,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 \section{Funkciók}\label{sect:rsz_funkciok}
 %,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+
+\subsection{Regisztráció kérelme}
+A felhasználó egy felületen a szükséges adatok bevitelével regisztrációt kérvényez (név, email cím, jelszó). A felhasználó ekkor még inaktív állapotban lesz, az adminisztrátornak kell aktiválnia, illetve a megfelelő szerepkört hozzárendelnie.
+\newline \underline{Szerepkör}: Ügyfél, Adminisztrátor, Bróker
+
+\subsection{Felhasználó regisztrációja}
+A felhasználó a beérkezett regisztrációs kérelmet feldolgozza és létrehoz egy új felhasználót, a role alapvetően ügyfél típusú lesz, de az adminisztrátor átállíthatja. Regisztráció után a felhasználó inaktív állapotban lesz, az adminisztrátornak aktiválnia kell belépéshez.
+\newline \underline{Szerepkör}: Adminisztrátor
+
+\subsection{Ügyfél számla kezelése}
+Az ügyfél létrehozhat magának tetszőleges mennyiségű számlát amire pénzt tölthet, majd ezt szerkesztheti (pénzt tölt fel, vesz le), törölheti, listázhatja. A számlát aktiválhatja ekkor az lesz az alapértelmezett számla minden művelethez.
+\newline \underline{Szerepkör}: Ügyfél
+
+\subsection{Megbízás kezelése}
+ A felhasználó kitölt egy megbízási formulát, melyhez megadja a szükséges adatokat(számla, részvény, ár, megbízás tipusa: vétel/eladás), majd ezt beregisztrálja a rendszerbe. A megbízást addig módosíthatja a felhasználó amíg nem lesz belőle ügylet, addig akár törölheti is. Vételi megbízáskor a szükséges mennyiségű pénz azonnal eltávolítódik a számlárol, csak akkor kerül vissza, ha a megbízás törlődik. Eladási megbízásnál az ügylet létrejöttekor kerül a pénz a számlára (ahonnan a részvény véve lett). Megbízást indíthatunk a főoldalról is az 'Eladás' vagy 'Vétel' gomb megnyomásával, ekkor az aktuális árfolyamon az aktivált számláról indul a megbízás.
+\newline \underline{Szerepkör}: Ügyfél
+
+\subsection{Részvények árfolyamának megtekintése}
+A fő oldalon a felhasználók láthatják a tőzsdén lévő összes részvény múltbéli árát egy grafikon segítségével. A bal oldali listából választhatják ki, hogy éppen melyik részvényt mutassa a grafikon.
+\newline \underline{Szerepkör}: Ügyfél
+
+\subsection{Ügyfelek kezelése}
+A brókerek látják az összes felhasználót, listázhatják számláikat, megbízásaikat, ügyleteiket. Megbízásaikat akár módosíthatják is.
+\newline \underline{Szerepkör}: Bróker

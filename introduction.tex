@@ -2,20 +2,23 @@
 \chapter*{Bevezető}
 %----------------------------------------------------------------------------
 
-Családfákon\footnote{\url{http://hu.wikipedia.org/wiki/Csal\%C3\%A1dfa}} az ősök és utódok közötti kapcsolatokat jeleníthetjük meg, ezzel a családfa a származástan (genealógia) tudományában használt egyik fontos és szemléletes eszköz. Segítségével könnyedén eligazodhatunk a családi leszármazások szövevényén, netán megőrizhetjük az utókornak őseink emlékét. A régebbi időkben a családfákat ábrázoló festmények, falikárpitok komoly művészi értéket képviseltek (lásd \figref{bitto_csaladfa} ábra), mára azonban leginkább a családfa információtartalmát tartjuk szem előtt.
+A tőzsde egy központosított nyilvános szervezett piac, ahol különböző papírokkal, árukkal kereskedhetnek a brókerek. Régen a tőzsdéken nem használtak számítógépes rendszereket, a megbízások kötése minden esetben papíron, emberi erővel történt, így nyilván nem tudtak olyan sebességgel, akkora mennyiségben (annyi áruval) kereskedni mint manapság. Napjainkban a tőzsde elképzelhetetlen bonyolult számítógépes rendszerek nélkül, amik automatiksan végzik a megbízások kezelését és az ügyletek kötését, az áruk árát pedig valós időben követhetjük az bárhol a világon (emiatt ma már egyes számítások szerint a hálózati kábelek sebességén is múlhat egy-egy megbízás sikeressége).
 
 \begin{figure}[!ht]
 \centering
-\includegraphics[width=70mm, keepaspectratio]{figures/bitto_csaladfa.png}
-\caption{A Bittó család régi típusú családfája.}
-\label{fig:bitto_csaladfa}
+\includegraphics[width=70mm, keepaspectratio]{figures/tozsde.png}
+\caption{Tőzsde}
+\label{fig:kep_tozsde}
 \end{figure}
 
-Alapvetően a családfák két típusát különböztetjük meg.
+A tőzsdéknek a következő tipusai léteznek:
 
 \begin{itemize}
- \item Egy meghatározott személy őseit bemutató családfa; ez általában, mint egy fa koronája, felfelé növekszik.
- \item Egy személy (vagy pár) leszármazottait bemutató családfa; formája pont ellentétes az előzőéhez képest, akárcsak a fa gyökérzete, ,,lefelé'' növekszik.
+ \item árutőzsde
+ \item értéktőzsde
+ \subitem devizatőzsde
+  \subitem értékpapírtőzsde
+   \subitem hírpiac
 \end{itemize}
 
-Természetesen a fenti két típus kombinációja is elképzelhető, azonban ez ,,offline'' megoldásban nagyon gyorsan kezelhetetlenné és átláthatatlanná válhat. Szoftveres segítséggel azonban akár a bővebb családunk több generációt felölelő teljes családfáját is könnyedén megszerkeszthetjük és karban tarthatjuk. Sőt, akár olyan (pl. multimédiás) anyagokat tárolhatunk a családfában szereplő személyek mellett szinkronban, amelyek további információkkal és emlékekkel tudják teljessé tenni az ábrázolt család (akár a saját családunk) történetét.
+Jelen web alapú tőzsdei applikációval egy értékpapír tőzsde működését kívántuk megvalósítani, úgy mint a megbízások, ügyletek kezelését, valós idejű értékpapír árfolyam kijelzés, számla adminisztráció.

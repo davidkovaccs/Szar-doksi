@@ -54,7 +54,7 @@ Az adatbázisban az üzleti logika részben definiált osztályok tábla repreze
 
 A USER tábla tartalmazza a regisztrált felhasználókat, a jelszavakat lekódolva tároljuk az esetleges sikeres támadás hatásainak tompítása érdekében. A bejelentkezéshez kapcsolatos adatok és a felhasználó egyéb adatai tárolódnak ebben a táblában, továbbá egy flag, mely jelzi, hogy a felhasználó regisztrációját aktiválva van-e.
 
-A ROLE tábla tartalmazza a rendszerben megtalálható szerepeket, az adminisztátor, bróker és felhasználó szerep elérhető jelenleg a rendszerben. A felhasználók és szerepek között több-több kapcsolat van, ezt a USER_ROLE kapcsolótábla valósítja meg. 
+A ROLE tábla tartalmazza a rendszerben megtalálható szerepeket, az adminisztátor, bróker és felhasználó szerep elérhető jelenleg a rendszerben. A felhasználók és szerepek között több-több kapcsolat van, ezt a USER\_ROLE kapcsolótábla valósítja meg. 
 
 Minden felhasználóhoz tartozhat több számla, így az ACCOUNT tábla a számla adatai mellett egy referenciát is tartalmaz a megfelelő felhasználóra.
 

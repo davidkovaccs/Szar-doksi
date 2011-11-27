@@ -1,65 +1,65 @@
 \select@language {magyar} \contentsline {chapter}{Hallgat\IeC {\'o}i nyilatkozat}{I}{section*.1}
 \select@language {magyar} \contentsline {chapter}{Tartalomjegyz\'ek\markboth {\MakeUppercase {Tartalomjegyz\'ek}}{\MakeUppercase {Tartalomjegyz\'ek}}}{II}{section*.2}
 \select@language {magyar} \contentsline {chapter}{Bevezet\IeC {\H o}}{1}{section*.4}
-\select@language {magyar} \contentsline {chapter}{\numberline {1}K\IeC {\"o}vetelm\IeC {\'e}nyspecifik\IeC {\'a}ci\IeC {\'o}}{3}{chapter.1}
-\select@language {magyar} \contentsline {section}{\numberline {1.1}Defin\IeC {\'\i }ci\IeC {\'o}k}{3}{section.1.1}
-\select@language {magyar} \contentsline {subsection}{\numberline {1.1.1}Felhaszn\IeC {\'a}l\IeC {\'o}}{3}{subsection.1.1.1}
-\select@language {magyar} \contentsline {subsection}{\numberline {1.1.2}\IeC {\"U}gyf\IeC {\'e}l}{3}{subsection.1.1.2}
-\select@language {magyar} \contentsline {subsection}{\numberline {1.1.3}T\IeC {\H o}zsdei instrumentum}{4}{subsection.1.1.3}
-\select@language {magyar} \contentsline {subsection}{\numberline {1.1.4}Sz\IeC {\'a}mla}{4}{subsection.1.1.4}
-\select@language {magyar} \contentsline {subsection}{\numberline {1.1.5}Egyenleg}{4}{subsection.1.1.5}
-\select@language {magyar} \contentsline {subsection}{\numberline {1.1.6}Megb\IeC {\'\i }z\IeC {\'a}s}{4}{subsection.1.1.6}
-\select@language {magyar} \contentsline {subsection}{\numberline {1.1.7}\IeC {\"U}gylet}{4}{subsection.1.1.7}
-\select@language {magyar} \contentsline {subsection}{\numberline {1.1.8}Br\IeC {\'o}ker}{4}{subsection.1.1.8}
-\select@language {magyar} \contentsline {subsection}{\numberline {1.1.9}Adminisztr\IeC {\'a}tor}{5}{subsection.1.1.9}
-\select@language {magyar} \contentsline {section}{\numberline {1.2}Felhaszn\IeC {\'a}l\IeC {\'o}i szerepk\IeC {\"o}r\IeC {\"o}k}{5}{section.1.2}
-\select@language {magyar} \contentsline {subsection}{\numberline {1.2.1}\IeC {\"U}gyf\IeC {\'e}l}{5}{subsection.1.2.1}
-\select@language {magyar} \contentsline {subsection}{\numberline {1.2.2}Br\IeC {\'o}ker}{5}{subsection.1.2.2}
-\select@language {magyar} \contentsline {subsection}{\numberline {1.2.3}Adminisztr\IeC {\'a}tor}{5}{subsection.1.2.3}
-\select@language {magyar} \contentsline {section}{\numberline {1.3}Leggyakoribb felhaszn\IeC {\'a}l\IeC {\'o}i esetek}{5}{section.1.3}
-\select@language {magyar} \contentsline {subsection}{\numberline {1.3.1}Regisztr\IeC {\'a}ci\IeC {\'o} k\IeC {\'e}relme}{5}{subsection.1.3.1}
-\select@language {magyar} \contentsline {subsection}{\numberline {1.3.2}Megb\IeC {\'\i }z\IeC {\'a}s ad\IeC {\'a}sa}{5}{subsection.1.3.2}
-\select@language {magyar} \contentsline {subsection}{\numberline {1.3.3}Megb\IeC {\'\i }z\IeC {\'a}s visszavon\IeC {\'a}sa}{5}{subsection.1.3.3}
-\select@language {magyar} \contentsline {subsection}{\numberline {1.3.4}\IeC {\"U}gyf\IeC {\'e}l megb\IeC {\'\i }z\IeC {\'a}sainak list\IeC {\'a}z\IeC {\'a}sa}{6}{subsection.1.3.4}
-\select@language {magyar} \contentsline {subsection}{\numberline {1.3.5}\IeC {\"U}gyf\IeC {\'e}l \IeC {\"u}gyleteinek historikus list\IeC {\'a}z\IeC {\'a}sa}{6}{subsection.1.3.5}
-\select@language {magyar} \contentsline {section}{\numberline {1.4}Funkci\IeC {\'o}k}{6}{section.1.4}
-\select@language {magyar} \contentsline {subsection}{\numberline {1.4.1}Regisztr\IeC {\'a}ci\IeC {\'o} k\IeC {\'e}relme}{6}{subsection.1.4.1}
-\select@language {magyar} \contentsline {subsection}{\numberline {1.4.2}Felhaszn\IeC {\'a}l\IeC {\'o} regisztr\IeC {\'a}ci\IeC {\'o}ja}{6}{subsection.1.4.2}
-\select@language {magyar} \contentsline {subsection}{\numberline {1.4.3}Felhaszn\IeC {\'a}l\IeC {\'o} kinevez\IeC {\'e}se}{6}{subsection.1.4.3}
-\select@language {magyar} \contentsline {subsection}{\numberline {1.4.4}Felhaszn\IeC {\'a}l\IeC {\'o} deaktiv\IeC {\'a}l\IeC {\'a}sa}{6}{subsection.1.4.4}
-\select@language {magyar} \contentsline {subsection}{\numberline {1.4.5}\IeC {\"U}gyf\IeC {\'e}l sz\IeC {\'a}mla l\IeC {\'e}trehoz\IeC {\'a}sa}{6}{subsection.1.4.5}
-\select@language {magyar} \contentsline {subsection}{\numberline {1.4.6}\IeC {\"U}gyf\IeC {\'e}l sz\IeC {\'a}mla m\IeC {\'o}dos\IeC {\'\i }t\IeC {\'a}sa}{6}{subsection.1.4.6}
-\select@language {magyar} \contentsline {subsection}{\numberline {1.4.7}\IeC {\"U}gyf\IeC {\'e}l sz\IeC {\'a}mla t\IeC {\"o}rl\IeC {\'e}se}{6}{subsection.1.4.7}
-\select@language {magyar} \contentsline {subsection}{\numberline {1.4.8}Megb\IeC {\'\i }z\IeC {\'a}s ad\IeC {\'a}sa}{7}{subsection.1.4.8}
-\select@language {magyar} \contentsline {subsection}{\numberline {1.4.9}Megb\IeC {\'\i }z\IeC {\'a}s m\IeC {\'o}dos\IeC {\'\i }t\IeC {\'a}sa}{7}{subsection.1.4.9}
-\select@language {magyar} \contentsline {subsection}{\numberline {1.4.10}Megb\IeC {\'\i }z\IeC {\'a}s visszavon\IeC {\'a}sa}{7}{subsection.1.4.10}
-\select@language {magyar} \contentsline {subsection}{\numberline {1.4.11}\IeC {\"U}gyf\IeC {\'e}l \IeC {\"u}gyleteinek historikus list\IeC {\'a}z\IeC {\'a}sa}{7}{subsection.1.4.11}
-\select@language {magyar} \contentsline {subsection}{\numberline {1.4.12}\IeC {\"U}gyf\IeC {\'e}l sz\IeC {\'a}ml\IeC {\'a}inak megtekint\IeC {\'e}se}{7}{subsection.1.4.12}
-\select@language {magyar} \contentsline {subsection}{\numberline {1.4.13}\IeC {\"U}gyf\IeC {\'e}l sz\IeC {\'a}mlaegyenleg\IeC {\'e}nek megtekint\IeC {\'e}se}{7}{subsection.1.4.13}
-\select@language {magyar} \contentsline {subsection}{\numberline {1.4.14}\IeC {\"U}gyf\IeC {\'e}l \IeC {\'e}l\IeC {\H o} megb\IeC {\'\i }z\IeC {\'a}sainak megtekint\IeC {\'e}se}{7}{subsection.1.4.14}
-\select@language {magyar} \contentsline {subsection}{\numberline {1.4.15}\IeC {\"U}gyf\IeC {\'e}l inakt\IeC {\'\i }v megb\IeC {\'\i }z\IeC {\'a}sainak megtekint\IeC {\'e}se}{7}{subsection.1.4.15}
-\select@language {magyar} \contentsline {section}{\numberline {1.5}Felhaszn\IeC {\'a}l\IeC {\'o}i interf\IeC {\'e}sz tervek}{8}{section.1.5}
-\select@language {magyar} \contentsline {subsection}{\numberline {1.5.1}Regisztr\IeC {\'a}ci\IeC {\'o}}{8}{subsection.1.5.1}
-\select@language {magyar} \contentsline {subsection}{\numberline {1.5.2}Bejelentkez\IeC {\'e}s}{8}{subsection.1.5.2}
-\select@language {magyar} \contentsline {subsection}{\numberline {1.5.3}Felhaszn\IeC {\'a}l\IeC {\'o}k menedzsel\IeC {\'e}se}{9}{subsection.1.5.3}
-\select@language {magyar} \contentsline {subsection}{\numberline {1.5.4}\IeC {\"U}gyf\IeC {\'e}l kezd\IeC {\H o}lapja}{9}{subsection.1.5.4}
-\select@language {magyar} \contentsline {subsection}{\numberline {1.5.5}\IeC {\"U}gyf\IeC {\'e}l sz\IeC {\'a}ml\IeC {\'a}i}{10}{subsection.1.5.5}
-\select@language {magyar} \contentsline {subsection}{\numberline {1.5.6}\IeC {\"U}gyf\IeC {\'e}l megb\IeC {\'\i }z\IeC {\'a}sai}{10}{subsection.1.5.6}
-\select@language {magyar} \contentsline {subsection}{\numberline {1.5.7}\IeC {\"U}gyf\IeC {\'e}l \IeC {\"u}gyletei}{11}{subsection.1.5.7}
-\select@language {magyar} \contentsline {subsection}{\numberline {1.5.8}\IeC {\'U}j megb\IeC {\'\i }z\IeC {\'a}s}{11}{subsection.1.5.8}
-\select@language {magyar} \contentsline {section}{\numberline {1.6}Biztons\IeC {\'a}gi k\IeC {\"o}vetelm\IeC {\'e}nyek}{12}{section.1.6}
-\select@language {magyar} \contentsline {subsection}{\numberline {1.6.1}Authentik\IeC {\'a}ci\IeC {\'o}}{12}{subsection.1.6.1}
-\select@language {magyar} \contentsline {subsection}{\numberline {1.6.2}Authoriz\IeC {\'a}ci\IeC {\'o}}{12}{subsection.1.6.2}
-\select@language {magyar} \contentsline {subsection}{\numberline {1.6.3}Beviteli mez\IeC {\H o}k v\IeC {\'e}delme}{12}{subsection.1.6.3}
-\select@language {magyar} \contentsline {subsection}{\numberline {1.6.4}Biztons\IeC {\'a}gos kommunik\IeC {\'a}ci\IeC {\'o}}{12}{subsection.1.6.4}
-\select@language {magyar} \contentsline {section}{\numberline {1.7}Tervezett architekt\IeC {\'u}ra}{12}{section.1.7}
-\select@language {magyar} \contentsline {chapter}{\numberline {2}Rendszerterv}{14}{chapter.2}
-\select@language {magyar} \contentsline {section}{\numberline {2.1}Architekt\IeC {\'u}ra}{14}{section.2.1}
-\select@language {magyar} \contentsline {section}{\numberline {2.2}R\IeC {\'e}tegek}{14}{section.2.2}
-\select@language {magyar} \contentsline {subsection}{\numberline {2.2.1}Kliens r\IeC {\'e}teg}{14}{subsection.2.2.1}
-\select@language {magyar} \contentsline {subsection}{\numberline {2.2.2}Webszerver r\IeC {\'e}teg}{17}{subsection.2.2.2}
-\select@language {magyar} \contentsline {subsection}{\numberline {2.2.3}Adatb\IeC {\'a}zis r\IeC {\'e}teg}{17}{subsection.2.2.3}
-\select@language {magyar} \contentsline {section}{\numberline {2.3}Funkci\IeC {\'o}k}{19}{section.2.3}
-\select@language {magyar} \contentsline {chapter}{\numberline {3}Telep\IeC {\'\i }t\IeC {\'e}si dokument\IeC {\'a}ci\IeC {\'o}}{20}{chapter.3}
-\select@language {magyar} \contentsline {chapter}{\IeC {\'E}rt\IeC {\'e}kel\IeC {\'e}s}{21}{section*.83}
-\select@language {magyar} \contentsline {subsubsection}{Tov\IeC {\'a}bbfejleszt\IeC {\'e}si lehet\IeC {\H o}s\IeC {\'e}gek}{21}{section*.86}
+\select@language {magyar} \contentsline {chapter}{\numberline {1}K\IeC {\"o}vetelm\IeC {\'e}nyspecifik\IeC {\'a}ci\IeC {\'o}}{2}{chapter.1}
+\select@language {magyar} \contentsline {section}{\numberline {1.1}Defin\IeC {\'\i }ci\IeC {\'o}k}{2}{section.1.1}
+\select@language {magyar} \contentsline {subsection}{\numberline {1.1.1}Felhaszn\IeC {\'a}l\IeC {\'o}}{2}{subsection.1.1.1}
+\select@language {magyar} \contentsline {subsection}{\numberline {1.1.2}\IeC {\"U}gyf\IeC {\'e}l}{2}{subsection.1.1.2}
+\select@language {magyar} \contentsline {subsection}{\numberline {1.1.3}T\IeC {\H o}zsdei instrumentum}{3}{subsection.1.1.3}
+\select@language {magyar} \contentsline {subsection}{\numberline {1.1.4}Sz\IeC {\'a}mla}{3}{subsection.1.1.4}
+\select@language {magyar} \contentsline {subsection}{\numberline {1.1.5}Egyenleg}{3}{subsection.1.1.5}
+\select@language {magyar} \contentsline {subsection}{\numberline {1.1.6}Megb\IeC {\'\i }z\IeC {\'a}s}{3}{subsection.1.1.6}
+\select@language {magyar} \contentsline {subsection}{\numberline {1.1.7}\IeC {\"U}gylet}{3}{subsection.1.1.7}
+\select@language {magyar} \contentsline {subsection}{\numberline {1.1.8}Br\IeC {\'o}ker}{3}{subsection.1.1.8}
+\select@language {magyar} \contentsline {subsection}{\numberline {1.1.9}Adminisztr\IeC {\'a}tor}{4}{subsection.1.1.9}
+\select@language {magyar} \contentsline {section}{\numberline {1.2}Felhaszn\IeC {\'a}l\IeC {\'o}i szerepk\IeC {\"o}r\IeC {\"o}k}{4}{section.1.2}
+\select@language {magyar} \contentsline {subsection}{\numberline {1.2.1}\IeC {\"U}gyf\IeC {\'e}l}{4}{subsection.1.2.1}
+\select@language {magyar} \contentsline {subsection}{\numberline {1.2.2}Br\IeC {\'o}ker}{4}{subsection.1.2.2}
+\select@language {magyar} \contentsline {subsection}{\numberline {1.2.3}Adminisztr\IeC {\'a}tor}{4}{subsection.1.2.3}
+\select@language {magyar} \contentsline {section}{\numberline {1.3}Leggyakoribb felhaszn\IeC {\'a}l\IeC {\'o}i esetek}{4}{section.1.3}
+\select@language {magyar} \contentsline {subsection}{\numberline {1.3.1}Regisztr\IeC {\'a}ci\IeC {\'o} k\IeC {\'e}relme}{4}{subsection.1.3.1}
+\select@language {magyar} \contentsline {subsection}{\numberline {1.3.2}Megb\IeC {\'\i }z\IeC {\'a}s ad\IeC {\'a}sa}{4}{subsection.1.3.2}
+\select@language {magyar} \contentsline {subsection}{\numberline {1.3.3}Megb\IeC {\'\i }z\IeC {\'a}s visszavon\IeC {\'a}sa}{4}{subsection.1.3.3}
+\select@language {magyar} \contentsline {subsection}{\numberline {1.3.4}\IeC {\"U}gyf\IeC {\'e}l megb\IeC {\'\i }z\IeC {\'a}sainak list\IeC {\'a}z\IeC {\'a}sa}{5}{subsection.1.3.4}
+\select@language {magyar} \contentsline {subsection}{\numberline {1.3.5}\IeC {\"U}gyf\IeC {\'e}l \IeC {\"u}gyleteinek historikus list\IeC {\'a}z\IeC {\'a}sa}{5}{subsection.1.3.5}
+\select@language {magyar} \contentsline {section}{\numberline {1.4}Funkci\IeC {\'o}k}{5}{section.1.4}
+\select@language {magyar} \contentsline {subsection}{\numberline {1.4.1}Regisztr\IeC {\'a}ci\IeC {\'o} k\IeC {\'e}relme}{5}{subsection.1.4.1}
+\select@language {magyar} \contentsline {subsection}{\numberline {1.4.2}Felhaszn\IeC {\'a}l\IeC {\'o} regisztr\IeC {\'a}ci\IeC {\'o}ja}{5}{subsection.1.4.2}
+\select@language {magyar} \contentsline {subsection}{\numberline {1.4.3}Felhaszn\IeC {\'a}l\IeC {\'o} kinevez\IeC {\'e}se}{5}{subsection.1.4.3}
+\select@language {magyar} \contentsline {subsection}{\numberline {1.4.4}Felhaszn\IeC {\'a}l\IeC {\'o} deaktiv\IeC {\'a}l\IeC {\'a}sa}{5}{subsection.1.4.4}
+\select@language {magyar} \contentsline {subsection}{\numberline {1.4.5}\IeC {\"U}gyf\IeC {\'e}l sz\IeC {\'a}mla l\IeC {\'e}trehoz\IeC {\'a}sa}{5}{subsection.1.4.5}
+\select@language {magyar} \contentsline {subsection}{\numberline {1.4.6}\IeC {\"U}gyf\IeC {\'e}l sz\IeC {\'a}mla m\IeC {\'o}dos\IeC {\'\i }t\IeC {\'a}sa}{5}{subsection.1.4.6}
+\select@language {magyar} \contentsline {subsection}{\numberline {1.4.7}\IeC {\"U}gyf\IeC {\'e}l sz\IeC {\'a}mla t\IeC {\"o}rl\IeC {\'e}se}{5}{subsection.1.4.7}
+\select@language {magyar} \contentsline {subsection}{\numberline {1.4.8}Megb\IeC {\'\i }z\IeC {\'a}s ad\IeC {\'a}sa}{6}{subsection.1.4.8}
+\select@language {magyar} \contentsline {subsection}{\numberline {1.4.9}Megb\IeC {\'\i }z\IeC {\'a}s m\IeC {\'o}dos\IeC {\'\i }t\IeC {\'a}sa}{6}{subsection.1.4.9}
+\select@language {magyar} \contentsline {subsection}{\numberline {1.4.10}Megb\IeC {\'\i }z\IeC {\'a}s visszavon\IeC {\'a}sa}{6}{subsection.1.4.10}
+\select@language {magyar} \contentsline {subsection}{\numberline {1.4.11}\IeC {\"U}gyf\IeC {\'e}l \IeC {\"u}gyleteinek historikus list\IeC {\'a}z\IeC {\'a}sa}{6}{subsection.1.4.11}
+\select@language {magyar} \contentsline {subsection}{\numberline {1.4.12}\IeC {\"U}gyf\IeC {\'e}l sz\IeC {\'a}ml\IeC {\'a}inak megtekint\IeC {\'e}se}{6}{subsection.1.4.12}
+\select@language {magyar} \contentsline {subsection}{\numberline {1.4.13}\IeC {\"U}gyf\IeC {\'e}l sz\IeC {\'a}mlaegyenleg\IeC {\'e}nek megtekint\IeC {\'e}se}{6}{subsection.1.4.13}
+\select@language {magyar} \contentsline {subsection}{\numberline {1.4.14}\IeC {\"U}gyf\IeC {\'e}l \IeC {\'e}l\IeC {\H o} megb\IeC {\'\i }z\IeC {\'a}sainak megtekint\IeC {\'e}se}{6}{subsection.1.4.14}
+\select@language {magyar} \contentsline {subsection}{\numberline {1.4.15}\IeC {\"U}gyf\IeC {\'e}l inakt\IeC {\'\i }v megb\IeC {\'\i }z\IeC {\'a}sainak megtekint\IeC {\'e}se}{6}{subsection.1.4.15}
+\select@language {magyar} \contentsline {section}{\numberline {1.5}Felhaszn\IeC {\'a}l\IeC {\'o}i interf\IeC {\'e}sz tervek}{7}{section.1.5}
+\select@language {magyar} \contentsline {subsection}{\numberline {1.5.1}Regisztr\IeC {\'a}ci\IeC {\'o}}{7}{subsection.1.5.1}
+\select@language {magyar} \contentsline {subsection}{\numberline {1.5.2}Bejelentkez\IeC {\'e}s}{7}{subsection.1.5.2}
+\select@language {magyar} \contentsline {subsection}{\numberline {1.5.3}Felhaszn\IeC {\'a}l\IeC {\'o}k menedzsel\IeC {\'e}se}{8}{subsection.1.5.3}
+\select@language {magyar} \contentsline {subsection}{\numberline {1.5.4}\IeC {\"U}gyf\IeC {\'e}l kezd\IeC {\H o}lapja}{8}{subsection.1.5.4}
+\select@language {magyar} \contentsline {subsection}{\numberline {1.5.5}\IeC {\"U}gyf\IeC {\'e}l sz\IeC {\'a}ml\IeC {\'a}i}{9}{subsection.1.5.5}
+\select@language {magyar} \contentsline {subsection}{\numberline {1.5.6}\IeC {\"U}gyf\IeC {\'e}l megb\IeC {\'\i }z\IeC {\'a}sai}{9}{subsection.1.5.6}
+\select@language {magyar} \contentsline {subsection}{\numberline {1.5.7}\IeC {\"U}gyf\IeC {\'e}l \IeC {\"u}gyletei}{10}{subsection.1.5.7}
+\select@language {magyar} \contentsline {subsection}{\numberline {1.5.8}\IeC {\'U}j megb\IeC {\'\i }z\IeC {\'a}s}{10}{subsection.1.5.8}
+\select@language {magyar} \contentsline {section}{\numberline {1.6}Biztons\IeC {\'a}gi k\IeC {\"o}vetelm\IeC {\'e}nyek}{11}{section.1.6}
+\select@language {magyar} \contentsline {subsection}{\numberline {1.6.1}Authentik\IeC {\'a}ci\IeC {\'o}}{11}{subsection.1.6.1}
+\select@language {magyar} \contentsline {subsection}{\numberline {1.6.2}Authoriz\IeC {\'a}ci\IeC {\'o}}{11}{subsection.1.6.2}
+\select@language {magyar} \contentsline {subsection}{\numberline {1.6.3}Beviteli mez\IeC {\H o}k v\IeC {\'e}delme}{11}{subsection.1.6.3}
+\select@language {magyar} \contentsline {subsection}{\numberline {1.6.4}Biztons\IeC {\'a}gos kommunik\IeC {\'a}ci\IeC {\'o}}{11}{subsection.1.6.4}
+\select@language {magyar} \contentsline {section}{\numberline {1.7}Tervezett architekt\IeC {\'u}ra}{11}{section.1.7}
+\select@language {magyar} \contentsline {chapter}{\numberline {2}Rendszerterv}{13}{chapter.2}
+\select@language {magyar} \contentsline {section}{\numberline {2.1}Architekt\IeC {\'u}ra}{13}{section.2.1}
+\select@language {magyar} \contentsline {section}{\numberline {2.2}R\IeC {\'e}tegek}{13}{section.2.2}
+\select@language {magyar} \contentsline {subsection}{\numberline {2.2.1}Megjelen\IeC {\'\i }t\IeC {\'e}si r\IeC {\'e}teg}{14}{subsection.2.2.1}
+\select@language {magyar} \contentsline {subsection}{\numberline {2.2.2}Webszerver r\IeC {\'e}teg}{14}{subsection.2.2.2}
+\select@language {magyar} \contentsline {subsection}{\numberline {2.2.3}Adatb\IeC {\'a}zis r\IeC {\'e}teg}{14}{subsection.2.2.3}
+\select@language {magyar} \contentsline {section}{\numberline {2.3}Funkci\IeC {\'o}k}{15}{section.2.3}
+\select@language {magyar} \contentsline {chapter}{\numberline {3}Telep\IeC {\'\i }t\IeC {\'e}si dokument\IeC {\'a}ci\IeC {\'o}}{16}{chapter.3}
+\select@language {magyar} \contentsline {chapter}{\IeC {\'E}rt\IeC {\'e}kel\IeC {\'e}s}{17}{section*.76}
+\select@language {magyar} \contentsline {subsubsection}{Tov\IeC {\'a}bbfejleszt\IeC {\'e}si lehet\IeC {\H o}s\IeC {\'e}gek}{17}{section*.79}

@@ -27,8 +27,16 @@ Az alkalmazás három rétegből épül fel a klasszikus MVC architektúra alapj
 
 Az felhasználó számítógépén, egy tetszőleges böngészőben fut az alkalmazás kliens rétege, ami a vizuális megjelenítésért felelős és kapcsolódásokat definiál az üzleti logika réteg felé.
 
-Az alkalmazás a legmodernebb webes trendeket követi, szem előtt tartva a minél nagyobb körű kompatibiltást különböző böngészőkkel. A felhasználóhoz érkező végső termék egy HTML lap CSS stíluslapokkal és Javascript kódokkal megtámogatva. 
+\bigskip
+
+Az alkalmazás a legmodernebb webes trendeket követi, szem előtt tartva a minél nagyobb körű kompatibiltást különböző böngészőkkel. A felhasználóhoz érkező végső termék egy HTML lap CSS stíluslapokkal és Javascript kódokkal megtámogatva.
+
+\bigskip 
+
 A CSS fájlok felelnek a felhaszálói felületen elhelyezett elemek beállításáért, segítséget nyújtanak egy koherens design megalkotásában, ahol az elemek vizuális tulajdonságai teljes mértékben lecsatolódnak az elemek definiálásától.
+
+\bigskip
+
 A HTML kódban hozunk létre elemeket a kliens alkalmazás felhasználói felületén. Az elemek lehetnek statikus vagy interaktív elemek, utóbbiakkat használva a felhasználó az üzleti logika felé kérésekkel fordulhat, melyekre a szerver válaszol egy újabb HTML fájllal. A felhasználó nem csak újabb oldalakra léphet tovább, hanem adatokat is küldhet, az üzleti logika által nyújtott felületen keresztül manipulálhatja a modell rétegben található adatokat, ha rendelkezik az ehhez megfelelő jogosultságokkal.
 
 \bigskip
@@ -41,6 +49,8 @@ A webalkalmazás a kliens-szerver alapokon nyugvó REST architektúrán alapul, 
 
 A kontroller réteget egy webszerver valósítja meg, melynek feladata a klienstől beérkező kérések és adatok feldolgozása, adatbázis manipulációk kezdeményezése és a válaszok visszaküldése a kliens réteg felé.
 
+\bigskip
+
 A webszerver legkülső felülete egy routing tábla, mely a klienstől érkező, egyes erőforrásokon végzett kéréseket a megfelelő funkcióhoz rendeli. Ezek a funkciók szintén az üzleti logika rétegben vannak definiálva, a különböző erőforrás reprezentációkhoz megfelelő modellek vannak definiálva. A modelleken az objektum-orientált szemléletet követve attribútumok és funckiók vannak definálva. Az osztályok és attribútumok közvetlen kapcsolatban állnak az adatbázis egyes tábláival, definiálhatunk ezen túl egy-egy, egy-több és több-több kapcsolatokat, melyek az adatbázis rétegben kapcsolótáblák segítségével jelennek meg, de az üzleti logika réteg számára ez a működés transzparens.
 
 %............................................................................
@@ -49,17 +59,31 @@ A webszerver legkülső felülete egy routing tábla, mely a klienstől érkező
 
 Az adatbázisban az üzleti logika részben definiált osztályok tábla reprezentációi szerepelnek, a köztük levő kapcsolatokat megvalósító kapcsolótáblák és különböző segédtáblák, melyek csupán a működést támogatják. Az adatbázisban egy tábla egy erőforrás osztálynak felel meg, ezen osztályok példányai a megfelelő tábla egy sorában vannak tárolva, az osztályok attribútumainak a tábla oszlopai felelnek meg.
 
+\bigskip
+
 A USER tábla tartalmazza a regisztrált felhasználókat, a jelszavakat lekódolva tároljuk az esetleges sikeres támadás hatásainak tompítása érdekében. A bejelentkezéshez kapcsolatos adatok és a felhasználó egyéb adatai tárolódnak ebben a táblában, továbbá egy flag, mely jelzi, hogy a felhasználó regisztrációját aktiválva van-e.
+
+\bigskip
 
 A ROLE tábla tartalmazza a rendszerben megtalálható szerepeket, az adminisztátor, bróker és felhasználó szerep elérhető jelenleg a rendszerben. A felhasználók és szerepek között több-több kapcsolat van, ezt a USER\_ROLE kapcsolótábla valósítja meg. 
 
+\bigskip
+
 Minden felhasználóhoz tartozhat több számla, így az ACCOUNT tábla a számla adatai mellett egy referenciát is tartalmaz a megfelelő felhasználóra.
+
+\bigskip
 
 A STOCK tábla különböző részvényeket reprezentál, mely alapvető adatokat tartalmaz a részvényről (név, aktuális árfolyam, különböző időbélyegek).
 
+\bigskip
+
 A STOCK\_VOL tábla az egyes számlákhoz tartozó részvények számát tárolja, így tárolja a számla és a részvény azonosítóját, illetve egy mennyiséget, ami a részvények számát jelzi.
 
+\bigskip
+
 A TRANSACTIONS tábla tartalmazza a már megkötött ügyleteket egy referenciával a megfelelő részvény típusra. Ezen kívül különböző időbélyegeket és az ügylet árát tartalmazza.
+
+\bigskip
 
 Az ORDERS tábla a megrendeléseket tartalmazza, egy megrendelés egy számlához tartozik, így a megfelelő oszlopban hivatkozik egy számlára. Ezen kívül egy ügylet referenciát is tartalmaz, mely NULL értéket tartalmaz, ha az ügylet még nem jött létre. A harmadik referencia a megrendelt részvényre mutat, ezentúl tartalmazza a megrendeléshez tartozó egyéb információkat (ár, vétel-eladás flag, időbélyegek).
 
@@ -67,6 +91,8 @@ Az ORDERS tábla a megrendeléseket tartalmazza, egy megrendelés egy számláho
 \section{Biztonság és skálázhatóság}\label{sect:rsz_funkciok}
 %,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 A rendszert a Heroku web kiszolgáló felhőjébe telepítettük, így egyszerre kaptunk nagy skálázhatóságot (tetszőleges méretű adatbázis, tetszőleges mennyisgű adatbázis szál, illetve HTTP kérés kiszolgáló), illetve biztonságot (HTTPS-en keresztüli elérés).
+
+\bigskip
 
 A rendszerben lévő modellekhez kizárólag authentikáció után lehet hozzáférni, illetve deklaratívan le van fektetve melyik felhasználói szerepkör melyik modellhez, milyen formán (létrehozás, módosítás, listázás, törlés) férhet hozzá. Az SQL injection támadások ellen a Rails beviteli mezői automatikusan védenek.
 

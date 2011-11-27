@@ -62,7 +62,7 @@
 \select@language {magyar} \contentsline {section}{\numberline {2.3}Biztons\IeC {\'a}g \IeC {\'e}s sk\IeC {\'a}l\IeC {\'a}zhat\IeC {\'o}s\IeC {\'a}g}{15}{section.2.3}
 \select@language {magyar} \contentsline {section}{\numberline {2.4}Funkci\IeC {\'o}k}{15}{section.2.4}
 \select@language {magyar} \contentsline {subsection}{\numberline {2.4.1}Regisztr\IeC {\'a}ci\IeC {\'o} k\IeC {\'e}relme}{15}{subsection.2.4.1}
-\select@language {magyar} \contentsline {subsection}{\numberline {2.4.2}Felhaszn\IeC {\'a}l\IeC {\'o} regisztr\IeC {\'a}ci\IeC {\'o}ja}{15}{subsection.2.4.2}
+\select@language {magyar} \contentsline {subsection}{\numberline {2.4.2}Felhaszn\IeC {\'a}l\IeC {\'o} regisztr\IeC {\'a}ci\IeC {\'o}ja}{16}{subsection.2.4.2}
 \select@language {magyar} \contentsline {subsection}{\numberline {2.4.3}\IeC {\"U}gyf\IeC {\'e}l sz\IeC {\'a}mla kezel\IeC {\'e}se}{16}{subsection.2.4.3}
 \select@language {magyar} \contentsline {subsection}{\numberline {2.4.4}Megb\IeC {\'\i }z\IeC {\'a}s kezel\IeC {\'e}se}{16}{subsection.2.4.4}
 \select@language {magyar} \contentsline {subsection}{\numberline {2.4.5}R\IeC {\'e}szv\IeC {\'e}nyek \IeC {\'a}rfolyam\IeC {\'a}nak megtekint\IeC {\'e}se}{16}{subsection.2.4.5}

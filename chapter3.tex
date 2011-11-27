@@ -2,6 +2,6 @@
 \chapter{Telepítési dokumentáció}\label{sect:telepites}
 %----------------------------------------------------------------------------
 
-Az alkalmazást természetéből adódóan egy webszerverre szükséges telepíteni, ez célszerűen a Microsoft IIS 7-es verziója. A telepítéshez a webprojekt könyvtárának tartalmát kell elérhetővé tenni a webszerveren. Célszerű a könyvtárban található HTML, vagy ASPX fájlt a könyvtár default kezdőlapjának beállítani, így a \texttt{kiszolgáló/elérésiút} címen az alkalmazás könnyen indítható.
-
-A program működése emellett természetesen igényli a felhasználó számítógépén a Silverlight környezet meglétét. Azonban ha nem érzékeli, a kezdőlapon automatikusan felajánlja a letöltést és telepítést, ami után a rendszer rögtön használhatóvá válik.
+Az alkalmazást a Heroku felhő alapú környezetébe érdemes telepíteni. Először is szükségünk lesz a Rails 3.1-es verziójára, illetbe egz PostgreSQL szerverre a számítógépünkön (Windowsra, Os X-re, illetve Linux-ra is telepíthetőek egyszerűen). Miután kitömörítettük a forrás fájlokat tartamazó fájlt futtassuk a 'bundle install' parancsot, így feltelepülnek a szükséges gem-ek a rendszerhez. Hozzunk létre egy felhasználót herokun majd a 'heroku login' bejelentkezés után a 'heroku create:appnev' paranccsal létre tudjuk hozni az applikációnkat amit innentől kezdve elérhetünk a 'http://myapp.heroku.com' címen.
+Ekkor az applikációnk már fut, de az adatbázis még nincs kellő képpen felépítve, ezt a 'heroku run rake db:migrate' paranccsal tudjuk megtenni, majd a 'heroku run rake db:populate'-el 
+Ha szeretnénk, hogy az applikációnk https-t is használjon, azt a ' heroku addons:add piggyback\_ssl' paranccsal tudjuk elérni, így az alkalmazásunk megtalálható lesz a 'https://myapp.heroku.com' címen.

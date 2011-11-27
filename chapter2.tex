@@ -8,11 +8,8 @@ Jelen fejezetben szeretnénk bemutatni az elkészítendő rendszer tervét. A k�
 \section{Architektúra}\label{sect:architektura}
 %,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 
-<<<<<<< HEAD
+
 Az alkalmazás három rétegből épül fel a klasszikus MVC architektúra alapján. A kliens oldalon a felhasználó webböngészőben futtatja az alkalmazást. A szerver oldali kód egy Apache Web Serveren fog futni, mely többszálú kliens kiszolgálást tesz lehetővé és képes titkosított csatornán végezni a kommunikációt a köztes rétegben, nagyban növelve a privát adatok védelmét. Az modell réteg a PostgreSQL adatbázis kezelő rendszeren alapul, mely egy széles körben támogatott open-source megoldás, mely megfelelő hatékonységgal képes szolgálni a rendszert. 
-=======
-A program architektúrájának a \sectref{tervarch} szakaszban említett háromrétegű (multitier) architektúrát választottuk. Ezzel a megoldással a felhasználói felület adminisztrálásának terhét le tudjuk venni a kiszolgáló válláról, az csak az alkalmazás hosztolásában, illetve az esetleges működés közbeni kommunikációban vesz részt.
->>>>>>> bfa5d678ee66be46eed7925d4601ca683ec0f221
 
 %. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 %\subsubsection{Egy subsubsection}\label{sect:egysubsubsection}
@@ -60,9 +57,18 @@ Minden felhasználóhoz tartozhat több számla, így az ACCOUNT tábla a száml
 
 A STOCK tábla különböző részvényeket reprezentál, mely alapvető adatokat tartalmaz a részvényről (név, aktuális árfolyam, különböző időbélyegek).
 
+A STOCK\_VOL tábla az egyes számlákhoz tartozó részvények számát tárolja, így tárolja a számla és a részvény azonosítóját, illetve egy mennyiséget, ami a részvények számát jelzi.
+
 A TRANSACTIONS tábla tartalmazza a már megkötött ügyleteket egy referenciával a megfelelő részvény típusra. Ezen kívül különböző időbélyegeket és az ügylet árát tartalmazza.
 
 Az ORDERS tábla a megrendeléseket tartalmazza, egy megrendelés egy számlához tartozik, így a megfelelő oszlopban hivatkozik egy számlára. Ezen kívül egy ügylet referenciát is tartalmaz, mely NULL értéket tartalmaz, ha az ügylet még nem jött létre. A harmadik referencia a megrendelt részvényre mutat, ezentúl tartalmazza a megrendeléshez tartozó egyéb információkat (ár, vétel-eladás flag, időbélyegek).
+
+%,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+\section{Biztonság és skálázhatóság}\label{sect:rsz_funkciok}
+%,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+A rendszert a Heroku web kiszolgáló felhőjébe telepítettük, így egyszerre kaptunk nagy skálázhatóságot (tetszőleges méretű adatbázis, tetszőleges mennyisgű adatbázis szál, illetve HTTP kérés kiszolgáló), illetve biztonságot (HTTPS-en keresztüli elérés).
+
+A rendszerben lévő modellekhez kizárólag authentikáció után lehet hozzáférni, illetve deklaratívan le van fektetve melyik felhasználói szerepkör melyik modellhez, milyen formán (létrehozás, módosítás, listázás, törlés) férhet hozzá. Az SQL injection támadások ellen a Rails beviteli mezői automatikusan védenek.
 
 %,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 \section{Funkciók}\label{sect:rsz_funkciok}

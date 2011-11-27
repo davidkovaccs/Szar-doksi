@@ -1,0 +1,979 @@
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (Web2C 2011) (format=pdflatex 2011.11.27)  27 NOV 2011 15:14
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**preliminaries.tex
+(./preliminaries.tex
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, dumylang, nohyphenation, ge
+rman-x-2011-07-01, ngerman-x-2011-07-01, afrikaans, ancientgreek, ibycus, arabi
+c, armenian, basque, bulgarian, catalan, pinyin, coptic, croatian, czech, danis
+h, dutch, ukenglish, usenglishmax, esperanto, estonian, ethiopic, farsi, finnis
+h, french, galician, german, ngerman, swissgerman, monogreek, greek, hungarian,
+ icelandic, assamese, bengali, gujarati, hindi, kannada, malayalam, marathi, or
+iya, panjabi, tamil, telugu, indonesian, interlingua, irish, italian, kurmanji,
+ lao, latin, latvian, lithuanian, mongolian, mongolianlmc, bokmal, nynorsk, pol
+ish, portuguese, romanian, russian, sanskrit, serbian, serbianc, slovak, sloven
+ian, spanish, swedish, turkish, turkmen, ukrainian, uppersorbian, welsh, loaded
+.
+
+! LaTeX Error: Environment titlepage undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 \begin{titlepage}
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 \begin{center}
+                  
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 5--5
+[] 
+ []
+
+! Undefined control sequence.
+l.6 \includegraphics
+                    [width=100mm,keepaspectratio]{figures/BMElogo.png}\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no [ in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no ] in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no B in font nullfont!
+Missing character: There is no M in font nullfont!
+Missing character: There is no E in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no ≈ in font cmcsc10!
+Missing character: There is no ± in font cmcsc10!
+Missing character: There is no √ in font cmcsc10!
+Missing character: There is no © in font cmcsc10!
+Missing character: There is no √ in font cmcsc10!
+Missing character: There is no ° in font cmcsc10!
+Missing character: There is no √ in font cmcsc10!
+Missing character: There is no ° in font cmcsc10!
+
+Overfull \hbox (50.6636pt too wide) in paragraph at lines 7--7
+ []\OT1/cmr/m/sc/10 Budapesti 
+ []
+
+
+Overfull \hbox (34.99979pt too wide) in paragraph at lines 7--7
+ \OT1/cmr/m/sc/10 Mszaki 
+ []
+
+
+Overfull \hbox (4.57776pt too wide) in paragraph at lines 7--7
+ \OT1/cmr/m/sc/10 s 
+ []
+
+
+Overfull \hbox (23.44707pt too wide) in paragraph at lines 7--7
+ \OT1/cmr/m/sc/10 Gaz- 
+ []
+
+
+Overfull \hbox (20.51102pt too wide) in paragraph at lines 7--7
+ \OT1/cmr/m/sc/10 das- 
+ []
+
+
+Overfull \hbox (10.18881pt too wide) in paragraph at lines 7--7
+ \OT1/cmr/m/sc/10 g- 
+ []
+
+
+Overfull \hbox (15.82213pt too wide) in paragraph at lines 7--7
+ \OT1/cmr/m/sc/10 tu- 
+ []
+
+
+Overfull \hbox (23.84433pt too wide) in paragraph at lines 7--7
+ \OT1/cmr/m/sc/10 dom- 
+ []
+
+
+Overfull \hbox (15.28883pt too wide) in paragraph at lines 7--7
+ \OT1/cmr/m/sc/10 nyi 
+ []
+
+
+Overfull \hbox (44.49416pt too wide) in paragraph at lines 7--7
+ \OT1/cmr/m/sc/10 Egyetem 
+ []
+
+Missing character: There is no √ in font cmcsc10!
+Missing character: There is no ° in font cmcsc10!
+Missing character: There is no √ in font cmcsc10!
+Missing character: There is no ° in font cmcsc10!
+Missing character: There is no √ in font cmcsc10!
+Missing character: There is no © in font cmcsc10!
+Missing character: There is no √ in font cmcsc10!
+Missing character: There is no © in font cmcsc10!
+
+Overfull \hbox (65.86905pt too wide) in paragraph at lines 8--8
+ []\OT1/cmr/m/sc/10 Automatizlsi 
+ []
+
+
+Overfull \hbox (4.57776pt too wide) in paragraph at lines 8--8
+ \OT1/cmr/m/sc/10 s 
+ []
+
+
+Overfull \hbox (17.04985pt too wide) in paragraph at lines 8--8
+ \OT1/cmr/m/sc/10 Al- 
+ []
+
+
+Overfull \hbox (16.26659pt too wide) in paragraph at lines 8--8
+ \OT1/cmr/m/sc/10 ka- 
+ []
+
+
+Overfull \hbox (22.51099pt too wide) in paragraph at lines 8--8
+ \OT1/cmr/m/sc/10 lma- 
+ []
+
+
+Overfull \hbox (23.19987pt too wide) in paragraph at lines 8--8
+ \OT1/cmr/m/sc/10 zott 
+ []
+
+
+Overfull \hbox (13.96655pt too wide) in paragraph at lines 8--8
+ \OT1/cmr/m/sc/10 In- 
+ []
+
+
+Overfull \hbox (21.28879pt too wide) in paragraph at lines 8--8
+ \OT1/cmr/m/sc/10 for- 
+ []
+
+
+Overfull \hbox (37.37758pt too wide) in paragraph at lines 8--8
+ \OT1/cmr/m/sc/10 matikai 
+ []
+
+
+Overfull \hbox (23.03041pt too wide) in paragraph at lines 8--8
+ \OT1/cmr/m/sc/10 Tan- 
+ []
+
+
+Overfull \hbox (15.95549pt too wide) in paragraph at lines 8--8
+ \OT1/cmr/m/sc/10 szk 
+ []
+
+! Undefined control sequence.
+l.11 {\huge
+            \bfseries \mittitle}\\[0.8cm]
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.11 {\huge \bfseries \mittitle
+                               }\\[0.8cm]
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 {\huge \bfseries \mittitle}\\
+                                  [0.8cm]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Undefined control sequence.
+<recently read> \Large 
+                       
+l.13 ...rchitekt√∫r√°k (VIAUM105)\\ H√°zi feladat}
+                                                  \\[4cm]
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no √ in font cmcsc10!
+Missing character: There is no ∫ in font cmcsc10!
+Missing character: There is no √ in font cmcsc10!
+Missing character: There is no ° in font cmcsc10!
+
+Overfull \hbox (109.62167pt too wide) in paragraph at lines 13--13
+ []\OT1/cmr/m/sc/10 Szoftverarchitektrk 
+ []
+
+
+Overfull \hbox (20.3331pt too wide) in paragraph at lines 13--13
+ \OT1/cmr/m/sc/10 (VI- 
+ []
+
+
+Overfull \hbox (46.81895pt too wide) in paragraph at lines 13--13
+ \OT1/cmr/m/sc/10 AUM105) 
+ []
+
+Missing character: There is no √ in font cmcsc10!
+Missing character: There is no ° in font cmcsc10!
+
+Overfull \hbox (16.18321pt too wide) in paragraph at lines 13--13
+ []\OT1/cmr/m/sc/10 Hzi 
+ []
+
+
+Overfull \hbox (14.71103pt too wide) in paragraph at lines 13--13
+ \OT1/cmr/m/sc/10 fe- 
+ []
+
+
+Overfull \hbox (15.04436pt too wide) in paragraph at lines 13--13
+ \OT1/cmr/m/sc/10 la- 
+ []
+
+
+Overfull \hbox (17.3999pt too wide) in paragraph at lines 13--13
+ \OT1/cmr/m/sc/10 dat 
+ []
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 15.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 15.
+Missing character: There is no √ in font cmti10!
+Missing character: There is no © in font cmti10!
+Missing character: There is no √ in font cmti10!
+Missing character: There is no ≠ in font cmti10!
+Missing character: There is no √ in font cmti10!
+Missing character: There is no © in font cmti10!
+! Undefined control sequence.
+<argument> \mitauthor 
+                      
+l.17  \makebox[7cm]{\mitauthor}
+                                & \makebox[7cm]{\mitadvisor} \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \mitadvisor 
+                       
+l.17 ...]{\mitauthor} & \makebox[7cm]{\mitadvisor}
+                                                   \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \mitauthorneptun 
+                            
+l.18  \makebox[7cm]{\mitauthorneptun}
+                                      & \makebox[7cm]{\begin{small}\mitadvis...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Environment small undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...{\begin{small}\mitadvisortitle\end{small}}
+                                                   \\
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Undefined control sequence.
+<argument> \begin {small}\mitadvisortitle 
+                                          \end {small}
+l.18 ...{\begin{small}\mitadvisortitle\end{small}}
+                                                   \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: \begin{tabular} on input line 15 ended by \end{small}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...{\begin{small}\mitadvisortitle\end{small}}
+                                                   \\
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Undefined control sequence.
+<argument> \url 
+                {\mitauthormail }
+l.19  \makebox[7cm]{\url{\mitauthormail}}
+                                          & \makebox[7cm]{\url{\mitadvisorma...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \url {\mitauthormail 
+                                }
+l.19  \makebox[7cm]{\url{\mitauthormail}}
+                                          & \makebox[7cm]{\url{\mitadvisorma...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \url 
+                {\mitadvisormail }
+l.19 ...l}} & \makebox[7cm]{\url{\mitadvisormail}}
+                                                   \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \url {\mitadvisormail 
+                                 }
+l.19 ...l}} & \makebox[7cm]{\url{\mitadvisormail}}
+                                                   \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \mitauthork 
+                       
+l.21  \makebox[7cm]{\mitauthork}
+                                 & \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \mitauthorkneptun 
+                             
+l.22  \makebox[7cm]{\mitauthorkneptun}
+                                       & \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \url 
+                {\mitauthorkmail }
+l.23  \makebox[7cm]{\url{\mitauthorkmail}}
+                                           & \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \url {\mitauthorkmail 
+                                 }
+l.23  \makebox[7cm]{\url{\mitauthorkmail}}
+                                           & \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (398.33856pt too wide) in paragraph at lines 15--25
+ [][] 
+ []
+
+! Undefined control sequence.
+l.27 {\large
+             \today}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.27 {\large \today
+                   }
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: \begin{document} ended by \end{titlepage}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.29 \end{titlepage}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Undefined control sequence.
+l.34 \lstset
+            {
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no b in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no = in font nullfont!
+! Undefined control sequence.
+l.35 	basicstyle=\scriptsize
+                            \ttfamily, % print whole listing small
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.36 	keywordstyle=\color
+                         {black}\bfseries\underbar, % underlined bold black ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+LaTeX Font Info:    Font shape `OT1/cmtt/bx/n' in size <10> not available
+(Font)              Font shape `OT1/cmtt/m/n' tried instead on input line 36.
+! Undefined control sequence.
+l.38 	commentstyle=\color
+                         {white}, % white comments
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.39 	stringstyle=\scriptsize
+                             \sffamily, 			% typewriter type for strings
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.44 	backgroundcolor=\color
+                            {lightgray},
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (25.24995pt too wide) in paragraph at lines 35--47
+[]\OT1/cmtt/m/n/10 ,
+ []
+
+
+Overfull \hbox (99.74913pt too wide) in paragraph at lines 35--47
+\OT1/cmtt/m/n/10 keywordstyle=black$[]$
+ []
+
+
+Overfull \hbox (89.24922pt too wide) in paragraph at lines 35--47
+\OT1/cmtt/m/n/10 identifierstyle=,
+ []
+
+
+Overfull \hbox (99.74913pt too wide) in paragraph at lines 35--47
+\OT1/cmtt/m/n/10 commentstyle=white,
+ []
+
+
+Overfull \hbox (66.05502pt too wide) in paragraph at lines 35--47
+\OT1/cmtt/m/n/10 stringstyle=\OT1/cmss/bx/n/10 ,
+ []
+
+
+Overfull \hbox (26.13345pt too wide) in paragraph at lines 35--47
+\OT1/cmss/bx/n/10 show-
+ []
+
+
+Overfull \hbox (87.04764pt too wide) in paragraph at lines 35--47
+\OT1/cmss/bx/n/10 stringspaces=false,
+ []
+
+
+Overfull \hbox (71.23087pt too wide) in paragraph at lines 35--47
+\OT1/cmss/bx/n/10 aboveskip=3pt,
+ []
+
+
+Overfull \hbox (14.6945pt too wide) in paragraph at lines 35--47
+\OT1/cmss/bx/n/10 be-
+ []
+
+
+Overfull \hbox (59.64748pt too wide) in paragraph at lines 35--47
+\OT1/cmss/bx/n/10 lowskip=3pt,
+ []
+
+
+Overfull \hbox (70.24475pt too wide) in paragraph at lines 35--47
+\OT1/cmss/bx/n/10 columns=fixed,
+ []
+
+
+Overfull \hbox (24.72234pt too wide) in paragraph at lines 35--47
+\OT1/cmss/bx/n/10 back-
+ []
+
+
+Overfull \hbox (35.22238pt too wide) in paragraph at lines 35--47
+\OT1/cmss/bx/n/10 ground-
+ []
+
+
+Overfull \hbox (72.90312pt too wide) in paragraph at lines 35--47
+\OT1/cmss/bx/n/10 color=lightgray,
+ []
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 53--53
+[] 
+ []
+
+! Undefined control sequence.
+l.56 \phantomsection
+                    
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.58 \large
+           
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no √ in font cmbx10!
+Missing character: There is no ì in font cmbx10!
+
+Overfull \hbox (60.66632pt too wide) in paragraph at lines 59--59
+ \OT1/cmr/bx/n/10 HALLGATI 
+ []
+
+
+Overfull \hbox (21.52766pt too wide) in paragraph at lines 59--59
+ \OT1/cmr/bx/n/10 NY- 
+ []
+
+
+Overfull \hbox (8.1944pt too wide) in paragraph at lines 59--59
+ \OT1/cmr/bx/n/10 I- 
+ []
+
+
+Overfull \hbox (62.74965pt too wide) in paragraph at lines 59--59
+ \OT1/cmr/bx/n/10 LATKOZAT 
+ []
+
+Missing character: There is no A in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no √ in font nullfont!
+Missing character: There is no ≠ in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no t in font nullfont!
+! Undefined control sequence.
+<recently read> \mitauthor 
+                           
+l.62 Alul√≠rott \emph{\mitauthor}
+                                  √©s \emph{\mitauthork}, a  Budapesti M≈±sz...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no √ in font nullfont!
+Missing character: There is no © in font nullfont!
+Missing character: There is no s in font nullfont!
+! Undefined control sequence.
+<recently read> \mitauthork 
+                            
+l.62 ...t \emph{\mitauthor} √©s \emph{\mitauthork}
+                                                  , a  Budapesti M≈±szaki √©...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no , in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no B in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no M in font nullfont!
+Missing character: There is no ≈ in font nullfont!
+Missing character: There is no ± in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no z in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no √ in font nullfont!
+Missing character: There is no © in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no G in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no z in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no √ in font nullfont!
+Missing character: There is no ° in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no √ in font nullfont!
+Missing character: There is no ° in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no E in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no √ in font nullfont!
+Missing character: There is no ≥ in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no j in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no j in font nullfont!
+Missing character: There is no √ in font nullfont!
+Missing character: There is no º in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no z in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no √ in font nullfont!
+Missing character: There is no ° in font nullfont!
+Missing character: There is no z in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no √ in font nullfont!
+Missing character: There is no ≠ in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no √ in font nullfont!
+Missing character: There is no © in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no √ in font nullfont!
+Missing character: There is no © in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no √ in font nullfont!
+Missing character: There is no º in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no j in font nullfont!
+Missing character: There is no √ in font nullfont!
+Missing character: There is no ° in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no √ in font nullfont!
+Missing character: There is no © in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no z in font nullfont!
+Missing character: There is no √ in font nullfont!
+Missing character: There is no ≠ in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no √ in font nullfont!
+Missing character: There is no º in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no . in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 62--63
+[]
+ []
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 64--64
+[] 
+ []
+
+Missing character: There is no B in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no , in font nullfont!
+! Undefined control sequence.
+l.66 Budapest, \today
+                     
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 69--69
+[] 
+ []
+
+! Undefined control sequence.
+<recently read> \mitauthor 
+                           
+l.73  \makebox[7cm]{\emph{\mitauthor}}
+                                       & \makebox[7cm]{\emph{\mitauthork}} \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<recently read> \mitauthork 
+                            
+l.73 ...thor}} & \makebox[7cm]{\emph{\mitauthork}}
+                                                   \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no h in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no √ in font nullfont!
+Missing character: There is no ≥ in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no √ in font nullfont!
+Missing character: There is no ≥ in font nullfont!
+
+Overfull \hbox (398.33856pt too wide) in paragraph at lines 71--76
+ []
+ []
+
+)
+! Emergency stop.
+<*> preliminaries.tex
+                     
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 35 strings out of 493629
+ 476 string characters out of 3146690
+ 53273 words of memory out of 3000000
+ 3434 multiletter control sequences out of 15000+200000
+ 5057 words of font info for 19 fonts, out of 3000000 for 9000
+ 831 hyphenation exceptions out of 8191
+ 19i,8n,15p,265b,206s stack positions out of 5000i,500n,10000p,200000b,50000s
+!  ==> Fatal error occurred, no output PDF file produced!
